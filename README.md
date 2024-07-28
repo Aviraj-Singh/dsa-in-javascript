@@ -1,6 +1,6 @@
 # DSA In JavaScript
 
-Welcome to the "DSA In JavaScript" repository! 🎉
+Welcome to the "DSA In JavaScript" repository!
 
 ## Overview
 
